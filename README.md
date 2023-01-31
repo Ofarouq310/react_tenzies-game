@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ofq310-meme-generator.netlify.app/)
+- [Live Demo Link](https://ofq310-tenzies-game.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
