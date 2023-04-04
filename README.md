@@ -1,5 +1,11 @@
 <a name="readme-top"></a>
 
+<div align="center">
+
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/logo1.png" alt="logo" width="225" height="auto" />
+  <br/>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
