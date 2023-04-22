@@ -32,7 +32,7 @@
 
 # 📖 Tenzies Game <a name="about-project"></a>
 
-- Tenzies game, be the first player to get all ten of your dice to show the same number, and see how many rolls took you to win each time.
+- Tenzies game, be the first player to get all ten of your dice to display the same number, and see how many rolls took you to win each time.
 
 ## 🛠 Built With <a name="built-with"></a>
 
